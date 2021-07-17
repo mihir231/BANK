@@ -1,0 +1,46 @@
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Navbar links on mouse-over */
+  .navbar a:hover {
+    background-color: #000;
+  }
+  
+  button{
+    border:none;
+    border-radius: 8px;
+    padding: 10px;
+    background:#7b887f; 
+    color:white;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    transition: 0.5s;
+  }
+  .activity{
+    display: flex;
+  }
+
+  footer{
+    color:#000;
+    background-color:beige;
+    letter-spacing: 0.5px;
+  }
+  footer p{
+    margin: 0;
+    font-size: 15px;
+  }
+
+  
